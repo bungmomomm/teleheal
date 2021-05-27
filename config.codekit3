@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26268",
 "files": {
+	"\/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.gitattributes",
+		"oF": 0
+		},
 	"\/assets\/css\/ajax-loader.gif": {
 		"ft": 4194304,
 		"iS": 3208,
@@ -16,6 +23,16 @@
 		"oAP": "\/assets\/css\/ajax-loader.gif",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/assets\/css\/animate-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/animate-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/assets\/css\/animate.css": {
 		"aP": 1,
@@ -37,6 +54,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/assets\/css\/owl.carousel-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/owl.carousel-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/assets\/css\/owl.carousel.css": {
 		"aP": 1,
 		"bl": 0,
@@ -44,6 +71,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/assets\/css\/owl.carousel-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/assets\/css\/owl.carousel.min-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/owl.carousel.min-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -57,6 +94,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/assets\/css\/owl.theme.default-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/owl.theme.default-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/assets\/css\/owl.theme.default.css": {
 		"aP": 1,
 		"bl": 0,
@@ -64,6 +111,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/assets\/css\/owl.theme.default-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/assets\/css\/owl.theme.default.min-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/owl.theme.default.min-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -77,6 +134,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/assets\/css\/owl.theme.green-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/owl.theme.green-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/assets\/css\/owl.theme.green.css": {
 		"aP": 1,
 		"bl": 0,
@@ -84,6 +151,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/assets\/css\/owl.theme.green-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/assets\/css\/owl.theme.green.min-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/owl.theme.green.min-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -103,8 +180,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/css\/owl.video.play.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -125,6 +202,16 @@
 		"oAP": "\/assets\/css\/styles.css.map",
 		"oF": 0
 		},
+	"\/assets\/css\/subtle-slideshow-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/subtle-slideshow-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/assets\/css\/subtle-slideshow.css": {
 		"aP": 1,
 		"bl": 0,
@@ -134,27 +221,6 @@
 		"oAP": "\/assets\/css\/subtle-slideshow-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"\/assets\/fonts\/Optima.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/Optima.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Optima.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/Optima.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Optima.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/Optima.woff2",
-		"oF": 0
 		},
 	"\/assets\/fonts\/simple-line-icons\/.gitignore": {
 		"cB": 0,
@@ -178,6 +244,13 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/assets\/fonts\/simple-line-icons\/CODE_OF_CONDUCT.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/simple-line-icons\/CODE_OF_CONDUCT.html",
+		"oF": 0
+		},
 	"\/assets\/fonts\/simple-line-icons\/CODE_OF_CONDUCT.md": {
 		"cB": 0,
 		"cS": 0,
@@ -196,6 +269,13 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/assets\/fonts\/simple-line-icons\/CONTRIBUTING.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/simple-line-icons\/CONTRIBUTING.html",
+		"oF": 0
+		},
 	"\/assets\/fonts\/simple-line-icons\/CONTRIBUTING.md": {
 		"cB": 0,
 		"cS": 0,
@@ -213,6 +293,16 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/assets\/fonts\/simple-line-icons\/css\/simple-line-icons-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/simple-line-icons\/css\/simple-line-icons-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/assets\/fonts\/simple-line-icons\/css\/simple-line-icons.css": {
 		"aP": 1,
@@ -262,6 +352,16 @@
 		"oAP": "\/assets\/fonts\/simple-line-icons\/fonts\/Simple-Line-Icons.woff2",
 		"oF": 0
 		},
+	"\/assets\/fonts\/simple-line-icons\/gulpfile-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/simple-line-icons\/gulpfile-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/fonts\/simple-line-icons\/gulpfile.js": {
 		"ft": 64,
 		"ma": 0,
@@ -271,6 +371,13 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/assets\/fonts\/simple-line-icons\/History.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/simple-line-icons\/History.html",
+		"oF": 0
 		},
 	"\/assets\/fonts\/simple-line-icons\/History.md": {
 		"cB": 0,
@@ -290,6 +397,23 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/assets\/fonts\/simple-line-icons\/less\/simple-line-icons.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/simple-line-icons\/less\/simple-line-icons-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/assets\/fonts\/simple-line-icons\/less\/simple-line-icons.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/simple-line-icons\/less\/simple-line-icons.css.map",
+		"oF": 0
+		},
 	"\/assets\/fonts\/simple-line-icons\/less\/simple-line-icons.less": {
 		"aP": 0,
 		"bl": 0,
@@ -306,6 +430,13 @@
 		"sI": 0,
 		"sM": 0,
 		"sU": 0
+		},
+	"\/assets\/fonts\/simple-line-icons\/LICENSE.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/simple-line-icons\/LICENSE.html",
+		"oF": 0
 		},
 	"\/assets\/fonts\/simple-line-icons\/LICENSE.md": {
 		"cB": 0,
@@ -332,6 +463,13 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/assets\/fonts\/simple-line-icons\/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/simple-line-icons\/README.html",
+		"oF": 0
 		},
 	"\/assets\/fonts\/simple-line-icons\/README.md": {
 		"cB": 0,
@@ -405,8 +543,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/arrow-next-green@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -426,8 +564,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/arrow-next.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -437,8 +575,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/arrow-prev-green.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -448,8 +586,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/arrow-prev-green@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -469,8 +607,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/arrow-prev.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -480,8 +618,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/ico-fb.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -491,8 +629,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/ico-ig.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -556,12 +694,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/js\/docs.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/docs.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/docs.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/docs.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/ie-emulation-modes-warning-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/ie-emulation-modes-warning-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -576,12 +734,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/js\/ie10-viewport-bug-workaround-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/ie10-viewport-bug-workaround-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/ie10-viewport-bug-workaround.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/ie10-viewport-bug-workaround-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/ie8-responsive-file-warning-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/ie8-responsive-file-warning-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -596,12 +774,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/js\/jquery.fancybox.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/jquery.fancybox.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/jquery.fancybox.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/jquery.fancybox.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/jquery.instagramFeed.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/jquery.instagramFeed.min-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -616,12 +814,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/js\/jquery.subtle-slideshow-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/jquery.subtle-slideshow-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/jquery.subtle-slideshow.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/jquery.subtle-slideshow-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/owl.carousel-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/owl.carousel-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -636,12 +854,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/js\/owl.carousel.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/owl.carousel.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/owl.carousel.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/owl.carousel.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/raw-files.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/raw-files.min-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -676,6 +914,16 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/js\/src\/application-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/src\/application-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/src\/application.js": {
 		"ft": 64,
 		"ma": 0,
@@ -686,12 +934,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/js\/src\/customizer-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/src\/customizer-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/src\/customizer.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/src\/customizer-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/vendor\/anchor.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/vendor\/anchor.min-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -726,12 +994,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/js\/vendor\/FileSaver-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/vendor\/FileSaver-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/vendor\/FileSaver.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/vendor\/FileSaver-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/vendor\/holder.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/vendor\/holder.min-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -746,12 +1034,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/js\/vendor\/jquery.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/vendor\/jquery.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/vendor\/jquery.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/vendor\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/vendor\/jszip.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/vendor\/jszip.min-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -776,12 +1084,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/js\/vendor\/uglify.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/vendor\/uglify.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/vendor\/uglify.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/vendor\/uglify.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/vendor\/ZeroClipboard.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/vendor\/ZeroClipboard.min-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -795,6 +1123,26 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/dist\/css\/bootstrap-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/bootstrap-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/dist\/css\/bootstrap-theme-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/bootstrap-theme-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/dist\/css\/bootstrap-theme.css": {
 		"aP": 1,
@@ -812,6 +1160,16 @@
 		"oA": 0,
 		"oAP": "\/dist\/css\/bootstrap-theme.css.map",
 		"oF": 0
+		},
+	"\/dist\/css\/bootstrap-theme.min-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/bootstrap-theme.min-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/dist\/css\/bootstrap-theme.min.css": {
 		"aP": 1,
@@ -846,6 +1204,16 @@
 		"oA": 0,
 		"oAP": "\/dist\/css\/bootstrap.css.map",
 		"oF": 0
+		},
+	"\/dist\/css\/bootstrap.min-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/bootstrap.min-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/dist\/css\/bootstrap.min.css": {
 		"aP": 1,
@@ -902,6 +1270,16 @@
 		"oAP": "\/dist\/fonts\/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
+	"\/dist\/js\/bootstrap-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/dist\/js\/bootstrap-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/dist\/js\/bootstrap.js": {
 		"ft": 64,
 		"ma": 0,
@@ -912,12 +1290,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/dist\/js\/bootstrap.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/dist\/js\/bootstrap.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/dist\/js\/bootstrap.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/dist\/js\/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/dist\/js\/npm-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/dist\/js\/npm-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -938,8 +1336,8 @@
 		"oA": 0,
 		"oAP": "\/images\/.mbanner-section-commitment@2x~imageoptim.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -960,8 +1358,8 @@
 		"oA": 0,
 		"oAP": "\/images\/arrow-prev-green@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -992,7 +1390,7 @@
 		"oAP": "\/images\/bg-our-vision.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/btn-playstore.png": {
@@ -1001,8 +1399,8 @@
 		"oA": 0,
 		"oAP": "\/images\/btn-playstore.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1012,8 +1410,8 @@
 		"oA": 0,
 		"oAP": "\/images\/btn-playstore@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1023,8 +1421,8 @@
 		"oA": 0,
 		"oAP": "\/images\/btn-register.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1034,8 +1432,8 @@
 		"oA": 0,
 		"oAP": "\/images\/btn-register@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1045,8 +1443,8 @@
 		"oA": 0,
 		"oAP": "\/images\/favicon.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1056,8 +1454,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-close.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1088,8 +1486,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-fb-white.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1099,8 +1497,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-fb-white@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1110,8 +1508,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-fb.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1121,8 +1519,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-fb@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1132,8 +1530,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-ig-white.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1143,8 +1541,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-ig-white@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1154,8 +1552,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-in.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1165,8 +1563,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-in@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1176,8 +1574,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-instagram.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1187,8 +1585,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-instagram@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1208,8 +1606,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-share.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1219,8 +1617,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-share@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1240,8 +1638,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-twitter.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1251,8 +1649,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-twitter@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1262,8 +1660,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-wa.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1273,8 +1671,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-wa@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1284,8 +1682,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ico-whatsapp-white.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1306,8 +1704,8 @@
 		"oA": 0,
 		"oAP": "\/images\/img-corona-vaccine.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1317,8 +1715,8 @@
 		"oA": 0,
 		"oAP": "\/images\/img-corona-vaccine@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1328,8 +1726,8 @@
 		"oA": 0,
 		"oAP": "\/images\/img-teleheal-app.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1339,8 +1737,8 @@
 		"oA": 0,
 		"oAP": "\/images\/img-teleheal-app@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1360,8 +1758,8 @@
 		"oA": 0,
 		"oAP": "\/images\/img-woment-tech@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1371,8 +1769,8 @@
 		"oA": 0,
 		"oAP": "\/images\/leaf-05@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1403,8 +1801,8 @@
 		"oA": 0,
 		"oAP": "\/images\/logo-teleheal-white@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1414,8 +1812,8 @@
 		"oA": 0,
 		"oAP": "\/images\/logo_teleheal_final.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1436,8 +1834,8 @@
 		"oA": 0,
 		"oAP": "\/images\/mockup-app-teleheal.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1447,8 +1845,8 @@
 		"oA": 0,
 		"oAP": "\/images\/mockup-app-teleheal@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1458,8 +1856,8 @@
 		"oA": 0,
 		"oAP": "\/images\/navbar.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1469,8 +1867,8 @@
 		"oA": 0,
 		"oAP": "\/images\/navbar@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1480,6 +1878,24 @@
 		"oA": 0,
 		"oAP": "\/index.html",
 		"oF": 1
+		},
+	"\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/scss\/styles.scss": {
 		"aP": 0,
@@ -1493,6 +1909,16 @@
 		"oF": 2,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/scss\/subtle-slideshow.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/scss\/subtle-slideshow-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/scss\/subtle-slideshow.scss": {
 		"aP": 0,

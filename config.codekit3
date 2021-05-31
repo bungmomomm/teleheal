@@ -684,6 +684,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/assets\/js\/customize.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/customize.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/customize.min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -974,12 +984,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/js\/vendor\/autoprefixer-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/vendor\/autoprefixer-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/vendor\/autoprefixer.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/vendor\/autoprefixer-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/vendor\/Blob-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/vendor\/Blob-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1070,6 +1100,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/vendor\/jszip.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/vendor\/less.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/vendor\/less.min-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1445,6 +1485,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/favicon@2x.png": {
+		"ft": 32768,
+		"iS": 18297,
+		"oA": 0,
+		"oAP": "\/images\/favicon@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

@@ -371,89 +371,19 @@ section {
       }
     }
   }
-
-  &--events {
-    > li {
-      display: inline-block;
-      float: none;
-      border-bottom: none;
-      border:none;
-      width: calc(100% / 3 - 10px);
-
-      &:last-child {
-        border-right: none;
-      }
-      > li > a {
-        &:hover, &:active, &:visited, &:focus {
-          background: $clr-green;
-          color: $clr-white;
-        }
-      }
-    }
-
-    > li.active > a {
-      background: $clr-green;
-      color: $clr-white;
-      opacity: .5;
-      border: none;
-
-      &:hover, &:active, &:visited, &:focus {
-        background: $clr-green;
-        color: $clr-white;
-        border: none;
-        opacity: .5;
-      }
-    }
-  }
-}
-
-.tab-content {
-  .coming-soon {
-    padding: 100px;
-    text-align: center;
-    border: 1px solid $clr-green;
-  }
-}
-
-.separator-title {
-
-  position: relative;
-  text-align: center;
-  width: 75%;
-  margin: 0 auto;
-
-  p {
-    background-color: $clr-white;
-    padding: 10px 20px;
-    position: relative;
-    display: inline;
-  }
-
-  &::before {
-    content: '';
-    border-top: 1px solid $clr-green;
-    width: 100%;
-    height: 1px;
-    display: block;
-    position: absolute;
-    top: 12px;
-    left: 0;
-  } 
-
 }
 
 .bg {
-  &-blue {
-    background-color: $clr-blue;
-  }
-  &-light-blue {
-    background-color: $clr-light-blue;
-  }
+  
   &-green {
     background-color: $clr-green;
   }
   &-white {
     background-color: $clr-white;
+  }
+  &-our-vision {
+    background: url(../../images/bg-our-vision.jpg) no-repeat top center fixed;
+    background-size: cover;
   }
   &-footer {
     background: url(../../images/bg-green-gradient-footer.svg) no-repeat top center;

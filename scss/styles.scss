@@ -228,137 +228,9 @@ body {
     &-full {width: 100%;}
   }
 
-  #welcome {
-    .leaf-01 {
-      background: url(../../images/leaf-01.png) no-repeat;
-      background-size: 100% auto;
-      width: calc(483px / 1.75);
-      height: 100%;
-      position: absolute;
-      right: 0;
-      top: -50px;
-      z-index: 1;
-    }
-
-    .leaf-02 {
-      background: url(../../images/leaf-02.png) no-repeat top center;
-      background-size: 100% auto;
-      width: calc(930px / 1.75);
-      height: 100%;
-      position: absolute;
-      left: 0;
-      top: 500px;
-      z-index: 1;
-    }
-
-    .people-01 {
-      background: url(../../images/people-01.png) no-repeat;
-      background-size: 100% auto;
-      width: calc(1071px / 2);
-      height: 100%;
-      position: absolute;
-      left: 0;
-      top: 50px;
-      z-index: 1;
-    }
-
-    .people-02 {
-      background: url(../../images/people-02.png) no-repeat top center;
-      background-size: 100% auto;
-      width: calc(967px / 2);
-      height: 100%;
-      position: absolute;
-      right: 0;
-      top: 400px;
-      z-index: 1;
-    }
-
-    .trees {
-      background: $clr-white url(../../images/trees-home.jpg) no-repeat center top;
-      z-index: 1;
-      width: 100%;
-      min-height: 600px;
-      margin-top: -300px;
-    }
-  }
-
-  #testimonial {
-    z-index: 9;
-  }
-
-  #methods {
-    z-index: 2;
-
-    .leaf-03 {
-      background: url(../../images/leaf-03.png) no-repeat;
-      background-size: 100% auto;
-      width: calc(653px / 1.75);
-      height: 100%;
-      position: absolute;
-      right: 0;
-      top: -50px;
-      z-index: 1;
-    }
-
-    .leaf-04 {
-      background: url(../../images/leaf-04.png) no-repeat top center;
-      background-size: 100% auto;
-      width: calc(589px / 1.75);
-      height: 100%;
-      position: absolute;
-      left: 0;
-      top: 400px;
-      z-index: 1;
-    }
-
-    .leaf-11 {
-      background: url(../../images/leaf-11.png) no-repeat bottom right;
-      background-size: 100% auto;
-      width: calc(337px / 1.75);
-      height: 100%;
-      position: absolute;
-      right: 100px;
-      bottom: 20px;
-      z-index: 1;
-    }
-
-    .leaf-12 {
-      background: url(../../images/leaf-12.png) no-repeat bottom left;
-      background-size: 100% auto;
-      width: calc(308px / 1.75);
-      height: 100%;
-      position: absolute;
-      left: 100px;
-      bottom: 100px;
-      z-index: 1;
-    }
-  }
 
   #our-client {
     z-index: 0;
-
-
-    .leaf-13 {
-      background: url(../../images/leaf-13.png) no-repeat bottom center;
-      background-size: 100% auto;
-      width: calc(921px / 1.75);
-      height: 100%;
-      position: absolute;
-      right: -200px;
-      top: -50px;
-      z-index: 1;
-    }
-
-    .leaf-14 {
-      background: url(../../images/leaf-14.png) no-repeat top center;
-      background-size: 100% auto;
-      width: calc(457px / 1.75);
-      height: 100%;
-      position: absolute;
-      left: -100px;
-      top: 0;
-      z-index: 1;
-    }
   }
 
   #slideshow {
@@ -583,27 +455,12 @@ section {
   &-white {
     background-color: $clr-white;
   }
-  &-yellow {
-    background-color: $clr-yellow;
-  }
-  &-our-values {
-    background: url(../../images/bg-ourvalues.png) no-repeat top center;
-    background-size: cover;
-  }
-  &-our-vision {
-    background: url(../../images/bg-our-vision.jpg) no-repeat top center fixed;
-    background-size: cover;
-  }
   &-footer {
     background: url(../../images/bg-green-gradient-footer.svg) no-repeat top center;
     background-size: cover;
   }
   &-green-pattern {
     background: url(../../images/bg-green-pattern.png) no-repeat top center;
-    background-size: cover;
-  }
-  &-beach {
-    background: url(../../images/bg-beach.jpg) no-repeat top center;
     background-size: cover;
   }
 }
@@ -675,7 +532,7 @@ section {
   position: relative;
 
   &.bg-hero {
-    background: url(../../images/bg-green-gradient.svg) no-repeat top center;
+    background: url(../../images/bg-green-gradient.svg) no-repeat bottom center;
     background-size: cover;
     min-height: 100%;
   }
